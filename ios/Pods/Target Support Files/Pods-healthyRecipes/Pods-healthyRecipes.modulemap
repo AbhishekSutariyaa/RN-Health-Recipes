@@ -1,0 +1,6 @@
+module Pods_healthyRecipes {
+  umbrella header "Pods-healthyRecipes-umbrella.h"
+
+  export *
+  module * { export * }
+}
